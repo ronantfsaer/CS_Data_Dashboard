@@ -1,0 +1,5 @@
+#Developed with Python 3.9
+pandas==2.1.3
+numpy==1.26.2
+pydantic==2.5.2
+typing-extensions==4.8.0
