@@ -38,4 +38,9 @@ merge_datasets(subscriptions_file, cases_file, output_file)
 # cases product column blank, look into this
 # fix uni code error
 #  columns coming back with _x or _y in name ; remove redundant duplicates in the column name
+# check that cases mapped correctly
+
+
+#fucntion that formats none values (for subscrition with no cases)
+
 
